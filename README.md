@@ -24,4 +24,8 @@ A simple Node.js API for managing users with full CRUD (Create, Read, Update, De
 
 🌐 Access the API at http://localhost:$postnumber
 
-This project is perfect for beginners looking to learn API development with Node.js & Express! 🎯
+🎯 Testing with Thunder Client:
+
+Use Thunder Client (a lightweight HTTP client extension for VS Code) to test the API endpoints effortlessly!
+
+This project is perfect for beginners looking to learn API development with Node.js & Express! 
